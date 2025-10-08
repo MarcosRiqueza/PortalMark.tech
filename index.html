@@ -435,11 +435,11 @@
                         <div class="link-icon"><i class="fab fa-youtube"></i></div>
                         <div class="link-name">YouTube</div>
                     </a>
-                    <a href="#" id="mozilla-link" class="link-item">
+                    <a href="https://www.mozilla.org/firefox/" id="mozilla-link" class="link-item">
                         <div class="link-icon"><i class="fab fa-firefox-browser"></i></div>
                         <div class="link-name">Mozilla</div>
                     </a>
-                    <a href="#" id="edge-link" class="link-item">
+                    <a href="https://www.microsoft.com/edge" id="edge-link" class="link-item">
                         <div class="link-icon"><i class="fab fa-edge"></i></div>
                         <div class="link-name">Microsoft Edge</div>
                     </a>
@@ -1157,17 +1157,7 @@
                 document.getElementById('search-btn').click();
             }
         });
-        
-        // Configurar links para navegadores
-        document.getElementById('mozilla-link').addEventListener('click', function() {
-            alert('Para abrir o Mozilla Firefox, você precisa tê-lo instalado. Este é apenas um atalho simbólico.');
-        });
-        
-        document.getElementById('edge-link').addEventListener('click', function() {
-            alert('Para abrir o Microsoft Edge, você precisa tê-lo instalado. Este é apenas um atalho simbólico.');
-        });
-        
-        // Funcionalidade para filtrar categorias
+                // Funcionalidade para filtrar categorias
         const categoryButtons = document.querySelectorAll('.category-btn');
         const cards = document.querySelectorAll('.card');
         
