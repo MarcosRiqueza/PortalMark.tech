@@ -27,7 +27,7 @@ Criar uma experiência de navegação eficiente e personalizada, agrupando sites
 - **Sistema de Categorias** - Filtro inteligente por temas
 - **Temas Personalizáveis** - 6 opções de cores
 
-### 📱 Categorias Disponíveis (25 Categorias)
+### 📱 Categorias Disponíveis (27 Categorias)
 
 | Categoria | Descrição | Sites Incluídos |
 |-----------|-----------|-----------------|
